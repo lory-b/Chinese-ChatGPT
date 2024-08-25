@@ -9,10 +9,11 @@ ChatGPT在许多领域都有广泛的应用，包括文学创作、旅行规划�
 ## 二、如何在国内使用ChatGPT？
 目前ChatGPT官网是对国内不开放的，所以要使用ChatGPT是比较麻烦的，而且近期OpenAI官网不停的封号，很多人充值几百进去最后号直接没了，得不偿失。
 由于人工智能的热潮，我们国内也有很多家人工智能项目，今天给大家推荐几个国内的入口：
-1.[ChatGPT中文网](https://snakegpt.work)
-2.https://gptcat.top/
-3.[GPTPANDA](https://ai-panda.xyz/login?invite_code=34137c47)
-4.http://gptdog.online/
+1. [ChatGPT中文网](https://snakegpt.work)
+2. https://gptcat.top/
+3. [GPTPANDA](https://ai-panda.xyz/login?invite_code=34137c47)
+4. http://gptdog.online/
+
 ![image](https://github.com/user-attachments/assets/f4295e36-99a9-488d-8824-0a9c3ca1bf0b)
 
  
